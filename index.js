@@ -9,4 +9,5 @@ function isBalanced(str){
       return false;
     }
   }
+  return true;
 }
